@@ -34,7 +34,8 @@ Sector leadership isn't static - it rotates with macro conditions (COVID-era tec
 
 ## Visualization
 
-![Sector performance chart](sector_performance_chart.png)
+![sector_performance_chart](sector_performance_chart.png)
+
 
 ## Tools
 
